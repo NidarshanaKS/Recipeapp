@@ -4,8 +4,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js",
-    "postinstall": "npm rebuild bcrypt --build-from-source"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
